@@ -59,3 +59,14 @@ The  flow of each nft game causes 3 main problems
 - [x] Leaderboard system
 - [x] More themes and characters with different challenges
 - [x] Utilization of token and market liquidity
+
+
+## Video Demo Presentation
+Here's the video demo for ninja catalyst game: https://www.youtube.com/watch?v=p7iEm8v9Tag
+
+## Screenshot of the game
+<img src="https://github.com/daviddprtma/NinjaCatalystGame/blob/main/Prof/p1.png">
+<img src="https://github.com/daviddprtma/NinjaCatalystGame/blob/main/Prof/p2.png">
+<img src="https://github.com/daviddprtma/NinjaCatalystGame/blob/main/Prof/p3.png">
+<img src="https://github.com/daviddprtma/NinjaCatalystGame/blob/main/Prof/p4.png">
+<img src="https://github.com/daviddprtma/NinjaCatalystGame/blob/main/Prof/p5.png">
